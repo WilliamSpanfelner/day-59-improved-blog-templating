@@ -1,3 +1,4 @@
+![Screenshot](day-59-improved-blog-templating.png)
 # The upgraded blog template site using Bootstrap CSS, Flask with Jinja and an external json data source courtesy of npoint.io.
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
